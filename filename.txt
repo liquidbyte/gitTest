@@ -13,7 +13,9 @@ Steps involved in configuring GIT from Katacode node JS playground and uplading 
 #9 enter command "touch filename.txt"
 #10enter command "git status"
 #11enter command "git add filename.txt"
-#12enter command "git push"
+#12enter command "git commit"
+#13enter command "git push"
+#14enter your github credentials
 
 
 Your changes should now be pushed into the repo
