@@ -1,0 +1,19 @@
+This is a sample test file created in Katacode
+
+Steps involved in configuring GIT from Katacode node JS playground and uplading the same file to your GIT repo
+
+#1 open https://github.com/ 
+#2 create account if you dont have one and create a new repo
+#3 In the new repo page, clickk the "clone or download" button and copy the link for you repo
+#4 Open https://www.katacoda.com/courses/nodejs/playground in a browser of your choice
+#5 enter command to config git "git config --global user.email "you@example.com""
+#6 enter command to config git "git config --global user.name "Your Name""
+#7 enter the command "git clone <url from step #3>"
+#8 change directory to the new repo
+#9 enter command "touch filename.txt"
+#10enter command "git status"
+#11enter command "git add filename.txt"
+#12enter command "git push"
+
+
+Your changes should now be pushed into the repo
